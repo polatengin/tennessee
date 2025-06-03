@@ -18,7 +18,7 @@ So, I decided to create one for `polatengin`. My goal is to learn how to create 
 
 Let's start with the `man` command itself. You can use the `man` command to view the manual pages of other commands, including the `man` command itself.
 
-```sh
+```bash
 man man
 ```
 
@@ -46,11 +46,11 @@ In the _Overview_ section of the output of the `man man` command, you can see th
 
 Also in the _Overview_ section, you can see that the `man` pages are stored in the `manpath`, which can be find using the `manpath` command.
 
-```sh
+```bash
 manpath
 ```
 
-```sh
+```bash
 manpath
 
 /usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
@@ -60,7 +60,7 @@ manpath
 
 The `nroff` format is a text formatting program that is used to format the manual pages. It is a simple text format that can be easily read and edited.
 
-```sh
+```bash
 man nroff
 ```
 
@@ -68,7 +68,7 @@ man nroff
 
 We can find details about the `roff` language in the `Miscellaneous` category of the man page of `man`.
 
-```sh
+```bash
 man 7 man
 ```
 
