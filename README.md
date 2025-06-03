@@ -9,3 +9,8 @@ I asked myself, "Why not?"
 > `man` pages are a great way to document tools and make them easier to understand.
 
 So, I decided to create one for `polatengin`. My goal is to learn how to create and share a `man` page.
+
+## `man` pages
+
+`man` pages are the manual pages for commands in Unix-like operating systems. They provide detailed information about commands, their options, and usage.
+
