@@ -185,3 +185,9 @@ drwxr-xr-x 1 root root  4096 Jun  3 17:18 man8
 > sudo mkdir /usr/share/man/man7
 > ```
 
+Each directory corresponds to a category in the `man` pages. Since we are creating a `man` page for section 7, we will copy the `polatengin.7.gz` file to the `man7` directory.
+
+```bash
+sudo cp polatengin.7.gz /usr/share/man/man7
+```
+
