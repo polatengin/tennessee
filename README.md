@@ -142,3 +142,5 @@ To compile the `man` page, we just use the `gzip` command to compress the `polat
 gzip polatengin.7
 ```
 
+After running the command, you will see the `polatengin.7` file is replaced with the new file named `polatengin.7.gz`.
+
