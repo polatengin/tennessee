@@ -81,3 +81,11 @@ man 7 man
 | .BI | Bold and italic text |
 | .PP | Paragraph break |
 
+## Creating a `man` page for `polatengin`
+
+To create a `man` page for `polatengin`, we will create a file named `polatengin.7`, which is the standard naming convention for `man` pages in section 7.
+
+```bash
+vim polatengin.7
+```
+
