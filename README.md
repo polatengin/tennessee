@@ -131,6 +131,7 @@ I like the constantly learning new things and working on new projects.
 Microsoft is also a great place to work because of the people. The people at Microsoft are some of the smartest, most talented, and most driven people I have ever met. I feel fortunate to be able to work with such talented and passionate people.
 
 What is my job in Microsoft
+
 I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future-proof solutions 👍
 ```
 
