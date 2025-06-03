@@ -23,3 +23,17 @@ man man
 ```
 
 ![man man command screenshot](https://github.com/user-attachments/assets/d9d1d382-81b4-4724-afe9-176b39da27c3)
+
+There is a section in the `man` page of the `man` command that explains the sections of the manual pages. Here is a summary of the sections:
+
+| Section | Description |
+|---------|-------------|
+| 1 | Executable programs or shell commands |
+| 2 | System calls (functions provided by the kernel) |
+| 3 | Library calls (functions within program libraries) |
+| 4 | Special files (usually found in /dev) |
+| 5 | File formats and conventions, e.g. /etc/passwd |
+| 6 | Games |
+| 7 | Miscellaneous (including macro packages and conventions), e.g. man(7), groff(7) |
+| 8 | System administration commands (usually only for root) |
+| 9 | Kernel routines [Non standard] |
