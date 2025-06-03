@@ -164,3 +164,24 @@ manpath
 /usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
 ```
 
+Let's check the `/usr/share/man` directory to see it's content.
+
+```bash
+ls -lah /usr/share/man
+
+drwxr-xr-x 1 root root 16384 Jun  3 17:20 man1
+drwxr-xr-x 2 root root 20480 Apr  9 05:56 man2
+drwxr-xr-x 1 root root 12288 Apr  9 05:56 man3
+drwxr-xr-x 2 root root  4096 Apr  9 05:56 man4
+drwxr-xr-x 1 root root  4096 Jun  3 17:18 man5
+drwxr-xr-x 2 root root  4096 Apr  9 05:56 man6
+drwxr-xr-x 1 root root  4096 Jun  3 17:18 man7
+drwxr-xr-x 1 root root  4096 Jun  3 17:18 man8
+```
+
+> If the `man7` directory does not exist, you can create it using the following command:
+>
+> ```bash
+> sudo mkdir /usr/share/man/man7
+> ```
+
