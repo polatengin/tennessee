@@ -97,3 +97,40 @@ Open a terminal panel in the editor and check the format macros in the `man` pag
 man 7 man
 ```
 
+Now, we can start writing our `man` page using the `nroff` format.
+
+```nroff
+.TH EnginPolat 7
+
+.SH NAME
+
+Hello 👋, this is Engin Polat
+
+.SH REFERENCES
+
+GitHub \- https://github.com/polatengin
+
+LinkedIn \- https://www.linkedin.com/in/polatengin
+
+.SH DESCRIPTION
+
+My name is Engin Polat (pronouns, he/him 🙋‍♂️), I'm based in Seattle area, beautiful city Sammamish 🌅
+
+I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working.
+
+I'm currently working at my dream job as a Senior Software Engineer in Microsoft. I actively contribute to projects that make cloud development smoother for everyone.
+
+Why do I work for Microsoft
+
+I work for Microsoft because it is a great place to work where I can use my skills and talents to make a difference. Microsoft offers excellent job satisfaction, a chance to work on cutting-edge technology, and a chance to make a real difference in the world.
+
+I enjoy working on projects that are important to the company and that have a real impact on the world. I feel that my work is meaningful and that I am making a contribution to the company.
+
+I like the constantly learning new things and working on new projects.
+
+Microsoft is also a great place to work because of the people. The people at Microsoft are some of the smartest, most talented, and most driven people I have ever met. I feel fortunate to be able to work with such talented and passionate people.
+
+What is my job in Microsoft
+I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future-proof solutions 👍
+```
+
