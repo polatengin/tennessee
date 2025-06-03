@@ -89,3 +89,11 @@ To create a `man` page for `polatengin`, we will create a file named `polatengin
 vim polatengin.7
 ```
 
+Open a terminal panel in the editor and check the format macros in the `man` page of `man`.
+
+```bash
+:terminal
+
+man 7 man
+```
+
