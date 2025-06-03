@@ -65,3 +65,12 @@ man nroff
 ```
 
 `nroff` format uses `roff` language, which is a macro language for formatting text.
+
+We can find details about the `roff` language in the `Miscellaneous` category of the man page of `man`.
+
+```sh
+man 7 man
+```
+
+![man 7 man command screenshot](https://github.com/user-attachments/assets/961e675c-594b-49fe-bda9-46d7767b3013)
+
