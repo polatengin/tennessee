@@ -191,3 +191,11 @@ Each directory corresponds to a category in the `man` pages. Since we are creati
 sudo cp polatengin.7.gz /usr/share/man/man7
 ```
 
+## Viewing the `man` page
+
+Now that we have installed the `man` page, we can view it using the `man` command
+
+```bash
+man polatengin
+```
+
