@@ -1,4 +1,4 @@
-# `polatengin` man pages
+# `polatengin` man page
 
 I was using `man` pages to learn more about `git rev-list` _(they really helped me understand how to use it)_.
 
@@ -37,3 +37,5 @@ There is a section in the `man` page of the `man` command that explains the sect
 | 7 | Miscellaneous (including macro packages and conventions), e.g. man(7), groff(7) |
 | 8 | System administration commands (usually only for root) |
 | 9 | Kernel routines [Non standard] |
+
+For my `polatengin` `man` page, I will use section _7_, which is for _miscellaneous (including macro packages and conventions)_.
