@@ -18,7 +18,7 @@ So, I decided to create one for `polatengin`. My goal is to learn how to create 
 
 Let's start with the `man` command itself. You can use the `man` command to view the manual pages of other commands, including the `man` command itself.
 
-```bash
+```sh
 man man
 ```
 
@@ -39,3 +39,19 @@ There is a section in the `man` page of the `man` command that explains the sect
 | 9 | Kernel routines [Non standard] |
 
 For my `polatengin` `man` page, I will use section _7_, which is for _miscellaneous (including macro packages and conventions)_.
+
+In the _Overview_ section of the output of the `man man` command, you can see that the man pages are stored in the `nroff` format. This is a text formatting program that is used to format the manual pages.
+
+> Manual pages are normally stored in nroff(1) format under a directory such as /usr/share/man. In some installations, there may also be preformatted cat pages to improve performance. See manpath(5) for details of where these files are stored.
+
+Also in the _Overview_ section, you can see that the `man` pages are stored in the `manpath`, which can be find using the `manpath` command.
+
+```sh
+manpath
+```
+
+```sh
+manpath
+
+/usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
+```
