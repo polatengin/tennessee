@@ -134,3 +134,11 @@ What is my job in Microsoft
 I'm working with the biggest enterprises and communities all around the world, trying to solve their most sophisticated problems with scalable and future-proof solutions 👍
 ```
 
+## Compiling the `man` page
+
+To compile the `man` page, we just use the `gzip` command to compress the `polatengin.7` file into a `polatengin.7.gz` file.
+
+```bash
+gzip polatengin.7
+```
+
