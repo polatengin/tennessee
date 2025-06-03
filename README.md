@@ -21,3 +21,5 @@ Let's start with the `man` command itself. You can use the `man` command to view
 ```bash
 man man
 ```
+
+![man man command screenshot](https://github.com/user-attachments/assets/d9d1d382-81b4-4724-afe9-176b39da27c3)
