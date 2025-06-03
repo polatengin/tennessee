@@ -144,3 +144,13 @@ gzip polatengin.7
 
 After running the command, you will see the `polatengin.7` file is replaced with the new file named `polatengin.7.gz`.
 
+## Viewing the content of the gzipped `man` page
+
+To view the content of the gzipped `man` page, we can use the `zcat` command.
+
+```bash
+zcat polatengin.7.gz
+```
+
+This will display the content of the `polatengin.7` file in the terminal.
+
