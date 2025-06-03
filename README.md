@@ -48,10 +48,6 @@ Also in the _Overview_ section, you can see that the `man` pages are stored in t
 
 ```bash
 manpath
-```
-
-```bash
-manpath
 
 /usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
 ```
