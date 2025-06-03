@@ -74,3 +74,14 @@ man 7 man
 
 ![man 7 man command screenshot](https://github.com/user-attachments/assets/961e675c-594b-49fe-bda9-46d7767b3013)
 
+## Sample formats
+
+| Format | Description |
+|--------|-------------|
+| .TH | Title header |
+| .SH | Section header |
+| .B | Bold text |
+| .I | Italic text |
+| .BI | Bold and italic text |
+| .PP | Paragraph break |
+
