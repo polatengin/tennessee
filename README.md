@@ -55,3 +55,13 @@ manpath
 
 /usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
 ```
+
+## `nroff` format
+
+The `nroff` format is a text formatting program that is used to format the manual pages. It is a simple text format that can be easily read and edited.
+
+```sh
+man nroff
+```
+
+`nroff` format uses `roff` language, which is a macro language for formatting text.
