@@ -199,3 +199,4 @@ Now that we have installed the `man` page, we can view it using the `man` comman
 man polatengin
 ```
 
+![man polatengin screenshot](https://github.com/user-attachments/assets/f8c71cba-91e0-4905-9318-fb0f372f2e42)
