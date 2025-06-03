@@ -154,3 +154,13 @@ zcat polatengin.7.gz
 
 This will display the content of the `polatengin.7` file in the terminal.
 
+## Installing the `man` page
+
+To install the `man` page, we need to copy the `polatengin.7.gz` file to the appropriate directory in the `manpath`.
+
+```bash
+manpath
+
+/usr/local/share/nvm/versions/node/v22.15.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
+```
+
